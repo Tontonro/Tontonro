@@ -6,7 +6,7 @@
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Tontonro&langs_count=4&theme=ocean" alt="Linguagens mais usadas" height="180" />
   </a>
   <a href="https://github.com/Tontonro">
-    <img src="streak.svg" alt="GitHub Streak" height="180" />
+    <img src="https://streak-stats.demolab.com/?user=Tontonro&theme=ocean" alt="GitHub Streak do Tontonro" height="180" />
   </a>
 </div>
 
